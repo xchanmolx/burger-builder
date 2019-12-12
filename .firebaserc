@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "burger-builder",
+    "burger": "react-my-burger-5d935"
+  }
+}
